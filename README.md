@@ -26,13 +26,13 @@ After the url type /create to create a New Blog
 note: For creating the body must contain {"author","title","content","imageUrl"}
 
 
-# Find Unique Blog
+# Update Blog
 
 After the url type /update/:("valid id") to update a blog 
 
 note: For updating the body must contain valid keys
 
-# Find Unique Blog
+# Delete Blog
 
 After the url type /delete/:("valid id") to update a blog 
 
